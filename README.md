@@ -3,7 +3,7 @@ Welcome to the Alumni Repository.
 The goal of this repo is to give you the best support in finding a job as a developer.
 There are many on-line resources that can help you get ready for a job, and we want to share the best of them with you.
 
-Please have a look at the following sections: 
+Check <a href="https://github.com/HackYourFuture/alumni/wiki"> our wiki</a>, where you can read about the following subjects:
 
 WRITING your CV 
 
