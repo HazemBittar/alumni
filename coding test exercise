@@ -1,0 +1,73 @@
+Summary
+
+Take a look at: http://ranker.owlin.com
+
+Here we want to integrate support for pinboards.
+
+We want to do this using a central API where multiple dashboards can 'pin' articles to one of their pinboards.
+
+Therefor we need an API, that works like this:
+
+
+http put /pinboards/[somepinboard-id]/[some-article-id]
+
+ 
+{
+
+  "user":"Name of user that pinned the article"
+
+  "epoch":3983948    
+
+}
+
+ 
+It also needs to remember when the article was pinned.
+
+ 
+
+Deliverables 
+
+1. Working HTTP JSON REST API
+
+  - POST /pinboards                  
+
+  creates a new pinboard, and returns at least the id
+
+  - DELETE /pimboards/[somepinboard-id]
+
+  deletes an existing pinboard  
+
+  - PUT /pinboards/[somepinboard-id]/[some-article-id]       
+
+  pins an article to a pinboard
+
+  - DELETE /pinboards/[somepinboard-id]/[some-article-id]
+
+  unpins an article to a pinboard
+
+  - GET /pinboards/[somepinboard-id]
+
+  gets all the pins of one pinboard
+
+ 
+2. Simple front-end that allows to create and delete pinboards (will only be used internally)
+
+ 
+Freedom
+
+ 
+
+Use any language, any database system, any framework you like.
+
+ 
+Out of scope:
+
+ 
+
+- authorization
+
+- authentication
+
+- scalability of datalayer
+
+- design of front-end
