@@ -57,7 +57,7 @@ Questions you should be able to answer:
 
 Projects you should be able to build:
 
-#Full stack -  Internship:#
+# Full stack -  Internship: #
 
 See both questions front-end and back end- internship
 
@@ -66,7 +66,7 @@ See both projects front-end and back end- internship
 
 
 
-Full stack - Junior Developer Role
+# Full stack - Junior Developer Role #
 
 See both questions front-end and back end- junior developer role
 
