@@ -1,4 +1,4 @@
-Introduction: 
+## Introduction: ##
 
 This document shows what questions you can expect at an interview, depending on the type of role you are applying for. (front/back-end/full-stack)
 
@@ -18,11 +18,17 @@ Each question has a link to a correct answer, but make sure you understand the a
 Questions you should be able to answer:
 
 JS: 
+
 [Explain what “hoisting” is.](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md#explain-hoisting)
+
 [What is the difference between == and ===?](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md#what-is-the-difference-between--and-)
+
 [What is "use strict";? what are the advantages and disadvantages to using it?](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md#what-is-use-strict-what-are-the-advantages-and-disadvantages-to-using-it)
+
 [Explain the difference between synchronous and asynchronous functions.](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md#explain-the-difference-between-synchronous-and-asynchronous-functions)
+
 [Create a for loop that iterates up to 100 while outputting "fizz" at multiples of 3, "buzz" at multiples of 5 and "fizzbuzz" at multiples of 3 and 5](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md#create-a-for-loop-that-iterates-up-to-100-while-outputting-fizz-at-multiples-of-3-buzz-at-multiples-of-5-and-fizzbuzz-at-multiples-of-3-and-5)
+
 [What is a “closure” in JavaScript? Provide an example](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z#question-4)
 
 HTML:
