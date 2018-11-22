@@ -31,8 +31,10 @@ JS:
 
 [What is a “closure” in JavaScript? Provide an example](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z#question-4)
 
-HTML:
-CSS:
+**HTML:**
+
+
+**CSS:**
 
 Projects you should be able to build:
 
