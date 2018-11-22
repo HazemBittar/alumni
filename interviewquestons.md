@@ -17,6 +17,8 @@ We strongly recommend going over these questions multiple times, and having fell
 
 Each question has a link to a correct answer, but make sure you understand the answer well, and can give concrete examples for each question. 
 
+Next to that we will give examples of take-home assignments (smal projects) that you will need to be able to build. 
+
 
 # Front-end - Internship: #
 
@@ -36,10 +38,10 @@ JS:
 
 [What is a “closure” in JavaScript? Provide an example](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z#question-4)
 
-**HTML:**
+HTML:
 
 
-**CSS:**
+CSS:
 
 Projects you should be able to build:
 
