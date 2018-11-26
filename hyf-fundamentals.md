@@ -22,6 +22,7 @@ JS1
 [ ] Statements vs Expressions 
 
 [ ] Loops (for/while) 
+
 [ ] Functions
 
 JS2
@@ -53,6 +54,7 @@ JS2
 [ ] Events
 
 JS3
+
 [ ]	Callbacks 
 
 [ ]	Object Oriented Programming 
