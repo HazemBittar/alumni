@@ -7,73 +7,116 @@ Fundamentally understand the following concepts:
 
 JS1
 
-	Variables [var, let, const] 
-	Basic Data types [Strings, Numbers, Arrays, Booleans] 
-	Operators 
-	Naming conventions 
-	Conditions 
-	Advanced data types [Objects] 
-	Statements vs Expressions 
-	Loops (for/while) 
-	Functions
+[ ] Variables [var, let, const] 
+
+[ ] Basic Data types [Strings, Numbers, Arrays, Booleans] 
+
+[ ] Operators 
+
+[ ] Naming conventions 
+
+[ ] Conditions 
+
+[ ] Advanced data types [Objects] 
+
+[ ] Statements vs Expressions 
+
+[ ] Loops (for/while) 
+[ ] Functions
 
 JS2
 
-	Capturing user input 
-	Basic DOM manipulations [img src, innerHTML] 
-	Code debugging using the browser 
-	Code commenting 
-	Structuring code files
-	Functions + JSON/Array
-	Array Manipulations 
-	JSON 
-	Map and filter 
-	Arrow functions 
-	Closures 
-	Scope 
-	Events
+[ ]	Capturing user input 
+
+[ ] Basic DOM manipulations [img src, innerHTML] 
+
+[ ] Code debugging using the browser 
+
+[ ] Code commenting 
+
+[ ] Structuring code files
+
+[ ] Functions + JSON/Array
+
+[ ] Array Manipulations 
+
+[ ] JSON 
+
+[ ] Map and filter 
+
+[ ] Arrow functions 
+
+[ ] Closures 
+
+[ ] Scope 
+
+[ ] Events
 
 JS3
-	Callbacks 
-	Object Oriented Programming 
-	Code flow (order of execution) 
-	Async VS Sync 
-	Structure for a basic SPA 
-	XHTTP Requests 
-	API calls 
-	(re)writing data structures (in JSON) 
-	Promises 
+[ ]	Callbacks 
+
+[ ]	Object Oriented Programming 
+
+[ ]	Code flow (order of execution) 
+
+[ ]	Async VS Sync 
+
+[ ]	Structure for a basic SPA 
+
+[ ]	XHTTP Requests 
+
+[ ]	API calls 
+
+[ ]	(re)writing data structures (in JSON) 
+
+[ ]	Promises 
 
 
 Generally understand the following concepts: 
 
 **Node:**
 
-	What is Node.js? 
-	Using Node Package Manager (NPM) 
-	Using require to include modules 
-	Using http to handle http requests and respond 
-	Using fs to read from and write to files. 
-	Using process to read arguments from the CLI 
-	Using express to make a RESTful API 
+[ ]	What is Node.js? 
+
+[ ]	Using Node Package Manager (NPM) 
+
+[ ]	Using require to include modules 
+
+[ ]	Using http to handle http requests and respond 
+
+[ ]	Using fs to read from and write to files. 
+
+[ ]	Using process to read arguments from the CLI 
+
+[ ]	Using express to make a RESTful API 
 
 **Database:**
 
-	Entities 
-	The relational model 
-	The Structured Query Language (SQL) 
-	The construction of a database system 
-	MySQL as an example of a relational database system 
-	Non-relational data and NoSQL 
-	MongoDB as an example of a NoSQL database 
+[ ]Entities 
+
+[ ]The relational model 
+
+[ ]	The Structured Query Language (SQL) 
+
+[ ]	The construction of a database system 
+
+[ ]	MySQL as an example of a relational database system 
+
+[ ]	Non-relational data and NoSQL 
+
+[ ]	MongoDB as an example of a NoSQL database 
 
 **React**
 
-	React Components 
-	State and Lifecycle 
-	Forms and Managing State 
-	Flux & MobX 
-	API Integration 
+[ ]	React Components 
+
+[ ]	State and Lifecycle 
+
+[ ]	Forms and Managing State 
+
+[ ] Flux & MobX 
+
+[ ]	API Integration 
 
 
 
