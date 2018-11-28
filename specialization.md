@@ -1,4 +1,4 @@
-## Topics to dive further into based on your specialization ##
+## Topics in programming to dive further into ##
 
 
 
