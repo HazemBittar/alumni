@@ -40,9 +40,22 @@ React:
 
 *Projects you should be able to build:*
 
+Intermediate:
+
 [Build a speaking clock that speaks out the time](https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/)
 
 [Build a scorebord for people playing games](https://www.reddit.com/r/dailyprogrammer/comments/8jcffg/20180514_challenge_361_easy_tally_program/)
+
+[build a wikipedia viewer](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer)
+
+More advanced:
+
+[build a voting app](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-voting-app)
+
+[build a stock market app](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/chart-the-stock-market)
+
+[Re-create Giphy with its Own API](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178/#274f)
+
 
 ## Front end - Junior Developer Role ##
 
@@ -51,10 +64,6 @@ React:
 
 *Projects you should be able to build:*
 
-
-
-
-[Re-create Giphy with its Own API](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178/#274f)
 
 ## Back end -  Internship ##
 
