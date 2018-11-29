@@ -46,7 +46,7 @@ Intermediate:
 
 [Build a scorebord for people playing games](https://www.reddit.com/r/dailyprogrammer/comments/8jcffg/20180514_challenge_361_easy_tally_program/)
 
-[build a wikipedia viewer](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer) [Video of someone livecoding wikipedia viewer](https://www.youtube.com/watch?v=RPz75gcHj18)
+[build a wikipedia viewer](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer) .  >>>>>> [Video of someone livecoding wikipedia viewer](https://www.youtube.com/watch?v=RPz75gcHj18)
 
 [build a chat app](https://www.youtube.com/watch?v=a-JKj7m2LIo) or [more information](https://scrimba.com/g/greactchatkit)
 
