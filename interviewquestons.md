@@ -54,11 +54,15 @@ Questions you should be able to answer:
 Projects you should be able to build:
 
 
+
+
 # Back end -  Internship #
 
 Questions you should be able to answer:
 
 Projects you should be able to build:
+
+[User Authentication using Node and passport.js](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
 
 # Back end -  Junior Developer Role #
 
