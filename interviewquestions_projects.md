@@ -47,6 +47,10 @@ React:
 
 *Projects you should be able to build:*
 
+Easy: (Building a speaking clock that speaks out the time)[https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/]
+
+
+Easy: (Build a scorebord for people playing games)[https://www.reddit.com/r/dailyprogrammer/comments/8jcffg/20180514_challenge_361_easy_tally_program/]
 
 
 ## Back end -  Internship ##
