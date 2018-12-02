@@ -1,4 +1,4 @@
-## Best Practices CV and LinkedIn Building ##
+## Best Practices CV and LinkedIn ##
 
 <i>CVs</i>
 - Please send through your CV in a Word-file(.doc/.docx). This way we can provide in-text comments on draft versions, using Track & Changes as well as more general comments. A final Word-version will be shared with Wouter, who converts it to PDF before sharing it with prospective companies. You can also use the final version to send to companies.
