@@ -24,9 +24,8 @@ Docker (containerization) [Source 1](https://www.udemy.com/docker-tutorial-for-d
 
 Design Patterns [Source 1](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern)
 
-Data Structures
+Data Structures [Source 1 ](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/)
 
-OOP
 
 Test Driven Development
 
