@@ -1,7 +1,7 @@
 ## Best Practices CV and LinkedIn ##
 
 <i>CVs</i>
-- Please send through your CV in a Word-file(.doc/.docx). This way we can provide in-text comments on draft versions, using Track & Changes as well as more general comments. A final Word-version will be shared with Wouter, who converts it to PDF before sharing it with prospective companies. You can also use the final version to send to companies.
+- Please send through your CV in a Word-file(.doc/.docx). This way we can provide in-text comments on draft versions, using Track & Changes as well as more general comments. A final Word-version will be shared with Federico/Wouter, who converts it to PDF before sharing it with prospective companies. You can also use the final version to send to companies.
 
 - Use a basic template provided by HYF. You can edit these examples <a href="https://github.com/HackYourFuture/alumni/blob/master/Sample_CV_1.doc">here and <a href="https://github.com/HackYourFuture/alumni/blob/master/Sample_CV_2.doc">here</a>.
 
