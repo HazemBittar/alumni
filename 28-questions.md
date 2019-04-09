@@ -1,7 +1,7 @@
-## How to Answer the 29 Most Common Interview Questions ##
+## How to Answer the Most Common Interview Questions ##
 
 Wouldn't it be great if you knew exactly what a hiring manager would be asking you in your next interview?
-While we unfortunately can't read minds, we'll give you the next best thing: a list of the 28 most commonly asked interview questions and answers. 
+While we unfortunately can't read minds, we'll give you the next best thing: a list of the most commonly asked interview questions and answers. 
 While we don't recommend having a canned response for every interview question (in fact, please don't), we do recommend spending some time getting comfortable with what you might be asked, what hiring managers are really looking for in your responses, and what it takes to show that you're the right man or woman for the job.
 Consider this your interview study guide. 
 
